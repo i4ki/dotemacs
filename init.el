@@ -13,7 +13,7 @@
 (el-get-bundle elpa:htmlize)
 (el-get-bundle elpa:rust-mode)
 (el-get-bundle elpa:ob-rust)
-;; (el-get-bundle elpa:magit)
+(el-get-bundle elpa:magit)
 
 (setq ido-enable-flex-matching t)
 (setq ido-everywhere t)
